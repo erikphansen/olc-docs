@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
+* [Quickstart Page Title Set in Summary!](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics
