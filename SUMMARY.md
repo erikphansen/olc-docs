@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [🏡 Page Title!](page-title.md)
 
 ## Getting Started
 
@@ -10,8 +9,8 @@
 
 ## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
+* [Editor](basics/editor/README.md)
+  * [Markdown](basics/editor/markdown.md)
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
