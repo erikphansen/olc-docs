@@ -2,9 +2,7 @@
 icon: bullseye-arrow
 ---
 
-# Quickstart Guide
-
-Why didn't this page title update to **Quickstart Guide**?
+# Quickstart
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
