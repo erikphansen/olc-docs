@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [🏡 Page Title!](page-title.md)
 
 ## Getting Started
 
