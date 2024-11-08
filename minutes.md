@@ -1,0 +1,3 @@
+# Meeting minutes
+
+Coming soon...
