@@ -6,8 +6,8 @@
 ## Features
 
 - [Announcements](announcements.md)
-- [The Directory](directory.md)
-  - [Meeting minutes](minutes.md)
+- [Directory](directory.md)
+- [Meeting minutes](minutes.md)
 - [Documents](documents.md)
 - [Committees and requests](requests.md)
 - [Community spaces](community-spaces.md)
