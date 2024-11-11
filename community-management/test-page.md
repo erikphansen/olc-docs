@@ -4,26 +4,50 @@ description: This is an optional description
 
 # Test Page
 
+- [ ] Task list
+- [ ] Item 2
 
-
-* [ ] Task list
-* [ ] Item 2
-
-
-
-***
+---
 
 {% code title="my_code.js" lineNumbers="true" %}
+
 ```javascript
 // Some code
 ```
+
 {% endcode %}
-
-
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>This is a card. Whatever that means</td><td></td><td></td><td></td><td></td></tr><tr><td>And another card with a "cover" image, whatever that is.</td><td></td><td></td><td><a href="../.gitbook/assets/olc-landing.jpeg">olc-landing.jpeg</a></td><td></td></tr><tr><td></td><td></td><td>And this card?</td><td></td><td><a href="https://app.gitbook.com/o/zVE4wfWnE0orO86YtQCP/s/DfcPuZhDcXQKbbjaMCa5/">another site?</a></td></tr></tbody></table>
 
+<details>
 
+<summary>Can I put a stepper in here?</summary>
+
+What can I put in here?
+
+{% stepper %}
+{% step %}
+
+### First step
+
+Sign up. That should be easy I think
+
+can I embed something like tabs in this step?
+
+Or no? Just **text**?
+{% endstep %}
+
+{% step %}
+
+### Another step
+
+Ut vis zzril conceptam. Simul affert sapientem ius ex. Te usu dicunt docendi. Eam indoctum convenire cu.
+
+{% endstep %}
+
+{% endstepper %}
+
+</details>
 
 <details>
 
@@ -33,7 +57,9 @@ This is the content for the expandable thing.
 
 <img src="../.gitbook/assets/turn-on-construction-mode.jpeg" alt="" data-size="original">
 
-I put an _image_ up there :point\_up:
+I put an _image_ up there :point_up:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>This is a card. Whatever that means</td><td></td><td></td><td></td><td></td></tr><tr><td>And another card with a "cover" image, whatever that is.</td><td></td><td></td><td><a href="../.gitbook/assets/olc-landing.jpeg">olc-landing.jpeg</a></td><td></td></tr><tr><td></td><td></td><td>And this card?</td><td></td><td><a href="https://app.gitbook.com/o/zVE4wfWnE0orO86YtQCP/s/DfcPuZhDcXQKbbjaMCa5/">another site?</a></td></tr></tbody></table>
 
 </details>
 
@@ -53,6 +79,7 @@ Eos ex wisi electram aliquando, ullum populo no sea. Nisl argumentum conclusione
 
 {% stepper %}
 {% step %}
+
 ### First step
 
 Sign up. That should be easy I think
@@ -63,7 +90,10 @@ Or no? Just **text**?
 {% endstep %}
 
 {% step %}
+
 ### Another step
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>This is a card. Whatever that means</td><td></td><td></td><td></td><td></td></tr><tr><td>And another card with a "cover" image, whatever that is.</td><td></td><td></td><td><a href="../.gitbook/assets/olc-landing.jpeg">olc-landing.jpeg</a></td><td></td></tr><tr><td></td><td></td><td>And this card?</td><td></td><td><a href="https://app.gitbook.com/o/zVE4wfWnE0orO86YtQCP/s/DfcPuZhDcXQKbbjaMCa5/">another site?</a></td></tr></tbody></table>
 
 Lorem ipsum mea singulis repudiare an, ad duo dolore voluptatum. Movet electram qualisque in quo, oporteat pertinax in his. Dicta vitae deseruisse id mel, mea idque nemore te. Sed utamur nusquam ea. Cu per mutat libris facilisi.
 
@@ -73,16 +103,23 @@ Eos ex wisi electram aliquando, ullum populo no sea. Nisl argumentum conclusione
 {% endstep %}
 
 {% step %}
+
 ### Third _step_ with bold and _italics_
+
+<details>
+
+<summary>Expandable thing in a stepper?</summary>
+
+Lorem ipsum mea singulis repudiare an, ad duo dolore voluptatum. Movet electram qualisque in quo, oporteat pertinax in his. Dicta vitae deseruisse id mel, mea idque nemore te. Sed utamur nusquam ea. Cu per mutat libris facilisi.
+
+</details>
 
 stuff and things and stuff
 {% endstep %}
 {% endstepper %}
 
-
-
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+|     |     |     |
+|     |     |     |
