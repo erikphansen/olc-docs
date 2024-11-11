@@ -13,6 +13,11 @@ description: This is an optional description
 
 ```javascript
 // Some code
+let v = 'my var'
+
+function speak(word) {
+  console.log(word)
+}
 ```
 
 {% endcode %}
@@ -200,11 +205,24 @@ Lorem ipsum mea singulis repudiare an, ad duo dolore voluptatum. Movet electram 
 
 <details>
 
-<summary>You can put expandable details within a stepper</summary>
+<summary>You can put expandable details within a tab</summary>
 
 This expandable thing works.
 
-Lorem ipsum mea singulis repudiare an, ad duo dolore voluptatum. Movet electram qualisque in quo, oporteat pertinax in his. Dicta vitae deseruisse id mel, mea idque nemore te. Sed utamur nusquam ea. Cu per mutat libris facilisi.
+Does code work in an expandable within a tab?
+
+{% code title="my_code.js" lineNumbers="true" %}
+
+```javascript
+// Some code
+let v = 'my var'
+
+function speak(word) {
+  console.log(word)
+}
+```
+
+{% endcode %}
 
 </details>
 
