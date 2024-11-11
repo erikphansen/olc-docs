@@ -23,7 +23,9 @@ description: This is an optional description
 
 <summary>Can I put a stepper in here?</summary>
 
-What can I put in here?
+**NO**
+
+This does _not_ work. You _cannot_ put a stepper in an expandable section!
 
 {% stepper %}
 {% step %}
@@ -110,6 +112,10 @@ Eos ex wisi electram aliquando, ullum populo no sea. Nisl argumentum conclusione
 
 <summary>Expandable thing in a stepper?</summary>
 
+{% hint style="info" %}
+An info hint _within_ an expandable thing...
+{% endhint %}
+
 Lorem ipsum mea singulis repudiare an, ad duo dolore voluptatum. Movet electram qualisque in quo, oporteat pertinax in his. Dicta vitae deseruisse id mel, mea idque nemore te. Sed utamur nusquam ea. Cu per mutat libris facilisi.
 
 </details>
@@ -123,3 +129,16 @@ stuff and things and stuff
 |     |     |     |
 |     |     |     |
 |     |     |     |
+
+{% hint style="info" %}
+**Nerdy Detail:** Homes in the directory are sorted in numeric order. Most of the time, this should "just work" how you'd expect it to. "Unit 3" will be listed before "Unit 11," for example. You can use this bit of knowledge to control the order in which homes appear. For example, if your community's homes are street addresses...
+
+<details>
+
+<summary>Click me for more details!</summary>
+
+Lorem ipsum mea singulis repudiare an, ad duo dolore voluptatum. Movet electram qualisque in quo, oporteat pertinax in his. Dicta vitae deseruisse id mel, mea idque nemore te. Sed utamur nusquam ea. Cu per mutat libris facilisi.sent nonummy placerat. Sit platonem explicari conceptam ea.
+
+</details>
+
+{% endhint %}
