@@ -8,11 +8,18 @@ All announcements are listed in chronological order, with the most recent announ
 
 {% tabs %}
 {% tab title="Homeowner's view" %}
+
 <figure><img src=".gitbook/assets/announcements-index.jpeg" alt=""><figcaption><p>A homeowner's view of all the announcements</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Admin's view" %}
+
 <figure><img src=".gitbook/assets/announcements-index-admin.jpeg" alt=""><figcaption><p>An admin's view of all the announcements, including an indicator of which announcements are visible to renters</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Another's view" %}
+
+<figure><img src=".gitbook/assets/announcements-index.jpeg" alt=""><figcaption><p>A homeowner's view of all the announcements</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
