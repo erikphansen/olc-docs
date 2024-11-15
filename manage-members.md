@@ -1,3 +1,3 @@
 # Adding and removing community members
 
-Coming soon...
+🚧 _This page is under construction_ 🚧
