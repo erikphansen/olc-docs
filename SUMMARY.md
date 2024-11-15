@@ -14,5 +14,6 @@
 
 ## Community Management
 
-- [Construction Mode](construction-mode.md)
+- [Setting up your community](set-up-a-community.md)
+- [About Construction Mode](construction-mode.md)
 - [Adding and removing community members](manage-members.md)
