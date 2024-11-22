@@ -17,7 +17,7 @@ There is a ["Sign up" link](https://app.ourlittlecommunity.org/users/sign_up) on
 
 ## Create a new community
 
-After you have created an account, you'll be prompted to [set up a new community](https://app.ourlittlecommunity.org/communities/new). Pick a name for your community. Done!
+After you have created an account, you'll be prompted to [set up a new community](https://app.ourlittlecommunity.org/communities/new). All you need to do is pick a name.
 
 ## Add homes to your community
 
@@ -48,6 +48,8 @@ If you don't see the "Add an owner" link, turn on [Construction Mode]('construct
 4. Be sure to check the box to "Invite this person" to your community before clicking the "Add Owner" button.
 
 Those are the steps to add and invite someone to your community. You don't have to do it all in one go if you've got a lot of people to add and invite.
+
+Congratulations! I promise that adding homes and community members is the most tedious and time consuming thing you'll ever have to do on Our Little Community.
 
 ## Next steps:
 
