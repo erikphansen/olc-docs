@@ -4,7 +4,7 @@ Before you can start using Our Little Community to help manage your community, y
 
 ## First steps:
 
-There are four first steps to create the foundation of your community:
+There are four initial steps to create the foundation of your community:
 
 - [ ] [Create a new account](#create-a-new-account)
 - [ ] [Create a new community](#create-a-new-community)
@@ -13,11 +13,11 @@ There are four first steps to create the foundation of your community:
 
 ## Create a new account
 
-There is a ["Sign up" link](https://app.ourlittlecommunity.org/users/sign_up) on the [Our Little Community log in page](https://app.ourlittlecommunity.org). Signing up simply requires a name and email address. Enter your name, email address, and pick a password. That's all there is to it.
+There is a ["Sign up" link](https://app.ourlittlecommunity.org/users/sign_up) on the [Our Little Community log in page](https://app.ourlittlecommunity.org). Signing up simply requires a name and email address. Enter those and pick a password. That's all there is to it.
 
 ## Create a new community
 
-After you have created an account, you'll be prompted to [set up a new community](https://app.ourlittlecommunity.org/communities/new). Pick a name for your community. Easy.
+After you have created an account, you'll be prompted to [set up a new community](https://app.ourlittlecommunity.org/communities/new). Pick a name for your community. Done!
 
 ## Add homes to your community
 
@@ -51,7 +51,7 @@ Those are the steps to add and invite someone to your community. You don't have 
 
 ## Next steps:
 
-- [ ] Add meeting minutes
-- [ ] Add documents
-- [ ] Set up additional committees
-- [ ] Set up shared community spaces
+- [ ] Add [meeting minutes](./minutes.md)
+- [ ] Add [documents](./documents.md)
+- [ ] Set up additional [committees](./requests.md)
+- [ ] Set up [community spaces](./community-spaces.md)
