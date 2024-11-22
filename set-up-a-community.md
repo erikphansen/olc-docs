@@ -51,7 +51,7 @@ Those are the steps to add and invite someone to your community. You don't have 
 
 ## Next steps:
 
+- [ ] Add meeting minutes
+- [ ] Add documents
 - [ ] Set up additional committees
-- [ ] Upload meeting minutes
-- [ ] Upload documents
 - [ ] Set up shared community spaces

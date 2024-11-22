@@ -1,6 +1,6 @@
 # Announcements
 
-Do you have something you need to share with the entire community? Create an announcement. Announcements accomplish the same thing as sending a mass email — and everyone will get a copy of the announcement via email — but they are less ephemeral because they'll continue to exist on the community website.
+Announcements are a way for admins to share important information with the entire community. Announcements accomplish the same thing as sending a mass email — and everyone will get a copy of the announcement via email! — but they are less ephemeral because they'll continue to exist on the community website.
 
 ## Viewing announcements
 
