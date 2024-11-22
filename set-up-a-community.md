@@ -41,10 +41,10 @@ When you are finished adding all of your community's homes, it's time to add the
 2. Click the "Add an owner" link
 
 {% hint style="info" %}
-If you don't see the "Add an owner" link, turn on [Construction Mode]('construction-mode.md') from the main main.
+If you don't see the "Add an owner" link, turn on [Construction Mode](./construction-mode.md) from the main main.
 {% endhint %}
 
-3. Fill in the name and email address fields. Feel free to leave phone number and mailing address blank for now; those can be added later by either the home's owner or an admin.
+3. Fill in the name and email address fields. Feel free to leave phone number and mailing address blank for now; those can be added later by either [the home's owner](./directory.md#editing-your-homes-info) or an admin.
 4. Be sure to check the box to "Invite this person" to your community before clicking the "Add Owner" button.
 
 Those are the steps to add and invite someone to your community. You don't have to do it all in one go if you've got a lot of people to add and invite.
